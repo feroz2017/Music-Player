@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>stop.png</file>
+        <file>volume.png</file>
+        <file>mute.png</file>
+        <file>iconfinder_music_player_black-05_3695045.png</file>
+        <file>iconfinder_music_player_black-06_3695054.png</file>
+        <file>iconfinder_music_player_black-08_3695048.png</file>
+        <file>update-512.png</file>
+        <file>animated-music-image-0085.gif</file>
+        <file>big-bouncing-music-speakeranimated-gif.gif</file>
+        <file>Nordic-Media-Icon.png</file>
+        <file>untitled.png</file>
+    </qresource>
+</RCC>

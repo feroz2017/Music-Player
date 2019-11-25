@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>update-512.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>MusicPlayer.pro</file>
+    </qresource>
+</RCC>
