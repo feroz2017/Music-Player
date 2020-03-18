@@ -10,5 +10,3 @@ IDE: Creator
 Version:Qt 5.0.0
 
 Language: c++
-
-QML(Qt Modeling Language):
